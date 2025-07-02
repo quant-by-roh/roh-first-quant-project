@@ -1,6 +1,6 @@
 # Rohini's First Quant Project
 
-Hi! I'm Rohini, a Political Science student diving into Quantitative Finance.
+Hi! I'm Roh, a Political Science student diving into Quantitative Finance.
 
 ## 📚 What I'm Learning:
 - Python Basics (Variables, Loops, Lists, NumPy)
