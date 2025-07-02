@@ -1,4 +1,4 @@
-# Rohini's First Quant Project
+# Roh's First Quant Project
 
 Hi! I'm Roh, a Political Science student diving into Quantitative Finance.
 
