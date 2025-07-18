@@ -1,33 +1,64 @@
-📘 Roh's Quant Finance Practice Repository
+Roh's Quant Finance Practice Repository
+👋 Hi, I'm Roh — a Political Science student breaking into Quantitative Finance.
+This repository documents my journey from zero coding experience to building real finance tools using Python.
 
-👋 Hi, I'm Roh — a Political Science student breaking into Quantitative Finance.  
-This is my journey from zero coding to building real finance tools using Python.
+I believe skills matter more than background, and I’m proving it by learning and applying quant logic from scratch every single week.
 
----
+✅ What I’ve Learned So Far
+🔹 Python Foundations
+Variables, Data Types, Loops, If-Else Conditions, Functions
 
-## ✅ What I’ve Learned So Far
+Writing clean, readable code with comments & debugging confidently
 
-- Python basics: Variables, Data Types, Loops, Conditions, Functions  
-- Real-world financial logic: Profit/Loss checkers, Portfolio rating, Volatility tags  
-- Confidence in debugging & writing logic from scratch
+🔹 Financial Logic & Stock Analysis
+Step 1 – Return Tracking & Classification
 
----
+Calculated profit/loss (absolute return, return %)
 
-## 🔨 What This Repo Will Hold
+Classified stocks into Strong, Moderate, and Weak performers
 
-- 🧠 Practice scripts (loops, functions, if-else with stock logic)  
-- 📈 Small projects: stock analysis, volatility tagging, returns tracker  
-- ✅ Completed learning milestones (organized chronologically)
+Step 2 – Price Movement Analysis
 
----
+Tagged trading days as Gain, Loss, or No Change
 
-## 🚀 Coming Soon
+Created custom functions to identify Strong Gain / Mild Loss / Strong Loss days
 
-- Mini stock screener project  
-- Basic backtesting strategies  
-- NumPy-based portfolio analysis
+Sorted & counted top gain/loss days
 
----
+Step 3 – Volume & Performance Patterns
 
-💡 I believe skills matter more than background — and I'm here to prove it.  
-Stay tuned as I build more from scratch every single week.
+Grouped stocks by High, Medium, and Low trading volume
+
+Analyzed which volume category had the most Gain/Loss days
+
+Displayed Top 5 highest volume trading days
+
+🔨 What This Repo Holds
+🧠 Practice Scripts: small exercises applying Python logic to stock data
+
+📈 Mini Projects:
+
+Stock return calculator & performance rating
+
+Volume & price-movement correlation analysis
+
+Top-gain/loss day identification
+
+✅ Completed Steps Organized Chronologically for tracking my progress
+
+🚀 Coming Soon
+✅ Step 4 – Most Volatile Stocks Analysis
+
+✅ Step 5 – Moving Averages & Trend Detection
+
+Mini Stock Screener Project
+
+Basic Backtesting Strategies
+
+NumPy-based Portfolio Analysis
+
+📌 About Me
+I’m pursuing a B.A. in Political Science but working my way into Quantitative Finance to build practical tools for real-world trading & investing.
+
+📩 Suggestions or collaborations? Feel free to connect!
+
