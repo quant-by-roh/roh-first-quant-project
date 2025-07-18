@@ -5,11 +5,13 @@ This repository documents my journey from zero coding experience to building rea
 
 I believe skills matter more than background, and I’m proving it by learning and applying quant logic from scratch every single week.
 
+
 ✅ What I’ve Learned So Far
 🔹 Python Foundations
 Variables, Data Types, Loops, If-Else Conditions, Functions
 
 Writing clean, readable code with comments & debugging confidently
+
 
 🔹 Financial Logic & Stock Analysis
 Step 1 – Return Tracking & Classification
@@ -34,6 +36,7 @@ Analyzed which volume category had the most Gain/Loss days
 
 Displayed Top 5 highest volume trading days
 
+
 🔨 What This Repo Holds
 🧠 Practice Scripts: small exercises applying Python logic to stock data
 
@@ -47,6 +50,7 @@ Top-gain/loss day identification
 
 ✅ Completed Steps Organized Chronologically for tracking my progress
 
+
 🚀 Coming Soon
 ✅ Step 4 – Most Volatile Stocks Analysis
 
@@ -57,6 +61,7 @@ Mini Stock Screener Project
 Basic Backtesting Strategies
 
 NumPy-based Portfolio Analysis
+
 
 📌 About Me
 I’m pursuing a B.A. in Political Science but working my way into Quantitative Finance to build practical tools for real-world trading & investing.
